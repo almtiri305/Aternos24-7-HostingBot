@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "zagkalb",
+    "username": "abotez",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 90,
       "messages": [
-        "العن ام السيرفر الزق",
-        "يا عبود كل زق  !",
-        " توجعني روووحييي من جرووححيييي"
+        "كيف جيت المحبه كيف جيت الغرام",
+        "يا عيال اهينكم جيبولي دايموند",
+        "الحانوتي جاا!!!!"
       ]
     },
     "chat-log": true,
@@ -74,8 +74,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
